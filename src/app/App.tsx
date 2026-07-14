@@ -817,7 +817,7 @@ function ProjectsSection({ onProjectClick }: { onProjectClick: (p: Project) => v
 
 function SocialSection() {
   const socials = [
-    { name: "GitHub",    icon: Github,    href: "https://github.com/theresapurba-dev",            label: "@theresapurba-dev",       iconColor: "#24292e", bg: "linear-gradient(135deg,#f6f8fa,#e1e8f0)" },
+    { name: "GitHub",    icon: Github,    href: "https://github.com/theresapurba",            label: "@theresapurba-dev",       iconColor: "#24292e", bg: "linear-gradient(135deg,#f6f8fa,#e1e8f0)" },
     { name: "LinkedIn",  icon: Linkedin,  href: "http://www.linkedin.com/in/theresapurba190107",          label: "Theresa A Purba",       iconColor: "#0077b5", bg: "linear-gradient(135deg,#e8f4fd,#cce4f6)" },
     { name: "Instagram", icon: Instagram, href: "https://www.instagram.com/theresa.a.p?igsh=MW81azNrMzhoOXk3cQ==",         label: "@theresa.a.p",     iconColor: "#e1306c", bg: "linear-gradient(135deg,#fdf0f4,#fce4ee)" },
     { name: "Gmail",     icon: Mail,      href: "mailto:theresa.a.purba@gmail.com",       label: "theresa.a.purba@gmail.com",iconColor: "#ea4335", bg: "linear-gradient(135deg,#fdf1f0,#fce3e1)" },
@@ -1311,7 +1311,7 @@ function ContactPage() {
   };
 
   const socials = [
-    { name: "GitHub",    icon: Github,    href: "https://github.com/theresapurba-dev",       label: "@theresapurba-dev",        iconColor: "#24292e", bg: "linear-gradient(135deg,#f6f8fa,#e1e8f0)" },
+    { name: "GitHub",    icon: Github,    href: "https://github.com/theresapurba",       label: "@theresapurba-dev",        iconColor: "#24292e", bg: "linear-gradient(135deg,#f6f8fa,#e1e8f0)" },
     { name: "LinkedIn",  icon: Linkedin,  href: "http://www.linkedin.com/in/theresapurba190107",     label: "Theresa A Purba",        iconColor: "#0077b5", bg: "linear-gradient(135deg,#e8f4fd,#cce4f6)" },
     { name: "Instagram", icon: Instagram, href: "https://www.instagram.com/theresa.a.p?igsh=MW81azNrMzhoOXk3cQ==",    label: "@theresa.a.p",      iconColor: "#e1306c", bg: "linear-gradient(135deg,#fdf0f4,#fce4ee)" },
     { name: "Gmail",     icon: Mail,      href: "mailto:theresa.a.purba@gmail.com",  label: "theresa.a.purba@gmail.com", iconColor: "#ea4335", bg: "linear-gradient(135deg,#fdf1f0,#fce3e1)" },

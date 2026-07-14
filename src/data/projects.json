@@ -11,7 +11,16 @@
     ],
     "image": "public/uploads/Desain tanpa judul (2).png",
     "images": [
-      "public/uploads/Screenshot 2026-07-04 160829.png"
+      "public/uploads/Screenshot 2026-07-04 160829.png",
+      "public/uploads/Screenshot 2026-07-15 022800.png",
+      "public/uploads/Screenshot 2026-07-15 022813.png",
+      "public/uploads/Screenshot 2026-07-15 022926.png",
+      "public/uploads/Screenshot 2026-07-15 022936.png",
+      "public/uploads/Screenshot 2026-07-15 023205.png",
+      "public/uploads/Screenshot 2026-07-15 023214.png",
+      "public/uploads/Screenshot 2026-07-15 023224.png",
+      "public/uploads/Screenshot 2026-07-15 023431.png",
+      "public/uploads/Screenshot 2026-07-15 023446.png"
     ],
     "challenge": "Developing an interface for a feature-rich accounting system with interconnected workflows, such as transaction recording, general journal, general ledger, and financial reports. The challenge is to maintain a consistent user interface, facilitate navigation, and ensure that data from the backend is displayed clearly and is easy for users to understand.",
     "solution": "I developed the application interface using React and Tailwind CSS with a reusable components approach. The main pages are integrated with a REST API using Axios to dynamically display data, enabling transaction recording and report generation through a structured and responsive interface.",
@@ -41,7 +50,7 @@
     "challenge": "The dashboard requires a backend capable of processing data from various tables and summaries in PostgreSQL into information ready to be displayed in interactive visualizations. Furthermore, the backend must support movie popularity prediction using machine learning and provide data that can be efficiently accessed by an AI chatbot.",
     "solution": "I contributed to the backend development using FastAPI by building a REST API connected to a PostgreSQL database. The backend was designed to provide data for each dashboard page, including genre analysis, inventory, and movie predictions. Furthermore, the backend supported the integration of a Random Forest model for movie popularity prediction and provided an endpoint for the AI ​​chatbot to access dashboard information.",
     "outcome": "The backend successfully provides data services that support all the dashboard's core features, from Business Intelligence visualizations and inventory monitoring to movie predictions. With a REST API-based architecture, the frontend can retrieve data in a structured manner, making the dashboard easier to develop, maintain, and extend with new features.",
-    "github": "https://github.com/theresapurba-dev/System-Analytics-Dashboard-DVD-Rental-with-chatbot-ai.git",
+    "github": "https://github.com/theresapurba/System-Analytics-Dashboard-DVD-Rental-with-chatbot-ai.git",
     "demo": "https://drive.google.com/file/d/1knJi-vtga8Gq6DOluWzkRjXmHeLImFMB/view?usp=drive_link",
     "year": "2026",
     "role": "Backend Developer"
