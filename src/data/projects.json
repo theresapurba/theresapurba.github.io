@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "title": "Accounting System",
+    "tagline": "A web-based accounting system for managing business transactions and financial reports.",
+    "description": "A web-based accounting system to help UMKM manage their financial transactions and generate accounting reports.",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "Axios"
+    ],
+    "image": "public/uploads/Desain tanpa judul (2).png",
+    "images": [
+      "public/uploads/Screenshot 2026-07-04 160829.png"
+    ],
+    "challenge": "Developing an interface for a feature-rich accounting system with interconnected workflows, such as transaction recording, general journal, general ledger, and financial reports. The challenge is to maintain a consistent user interface, facilitate navigation, and ensure that data from the backend is displayed clearly and is easy for users to understand.",
+    "solution": "I developed the application interface using React and Tailwind CSS with a reusable components approach. The main pages are integrated with a REST API using Axios to dynamically display data, enabling transaction recording and report generation through a structured and responsive interface.",
+    "outcome": "The result is an application interface that supports the integrated processes of transaction recording and financial reporting. Users can access key features such as the dashboard, income, expenses, journal, ledger, and reports through a consistent navigation system, making it easier to record and monitor data.",
+    "github": "https://github.com/Tr-raaa/Accounting-System---SME-printing-business.git",
+    "demo": "https://drive.google.com/file/d/1hOimLU58KuFz-gdlNucHjjKplf3wTVfc/view?usp=drive_link",
+    "year": "2026",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 2,
+    "title": "System Analytics Dashboard",
+    "tagline": "Real-time data visualization",
+    "description": "DVD Rental BI Dashboard is a web based Business Intelligence application developed to help analyze movie rental data using the DVD Rental PostgreSQL dataset. This dashboard provides interactive visualizations of rental performance, genre and rating analysis, inventory monitoring, and movie popularity prediction through machine learning integration.",
+    "tags": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "image": "public/uploads/coverDVD_Rent.png",
+    "images": [
+      "public/uploads/ocean-analytics-dashboard-image.png",
+      "public/uploads/analytics_inventory.png",
+      "public/uploads/Screenshot 2026-07-03 181855.png",
+      "public/uploads/Screenshot 2026-07-03 182152.png"
+    ],
+    "challenge": "The dashboard requires a backend capable of processing data from various tables and summaries in PostgreSQL into information ready to be displayed in interactive visualizations. Furthermore, the backend must support movie popularity prediction using machine learning and provide data that can be efficiently accessed by an AI chatbot.",
+    "solution": "I contributed to the backend development using FastAPI by building a REST API connected to a PostgreSQL database. The backend was designed to provide data for each dashboard page, including genre analysis, inventory, and movie predictions. Furthermore, the backend supported the integration of a Random Forest model for movie popularity prediction and provided an endpoint for the AI ​​chatbot to access dashboard information.",
+    "outcome": "The backend successfully provides data services that support all the dashboard's core features, from Business Intelligence visualizations and inventory monitoring to movie predictions. With a REST API-based architecture, the frontend can retrieve data in a structured manner, making the dashboard easier to develop, maintain, and extend with new features.",
+    "github": "https://github.com/theresapurba-dev/System-Analytics-Dashboard-DVD-Rental-with-chatbot-ai.git",
+    "demo": "https://drive.google.com/file/d/1knJi-vtga8Gq6DOluWzkRjXmHeLImFMB/view?usp=drive_link",
+    "year": "2026",
+    "role": "Backend Developer"
+  },
+  {
+    "id": 3,
+    "title": "Bite & Brew",
+    "tagline": "Point of Sale system and cafe management to manage sales, menu, inventory and daily operations.",
+    "description": "A web-based Point of Sale (POS) application that helps cafe operations by managing menus, sales transactions, inventory, and recording sales activities in one system.",
+    "tags": [
+      "PHP",
+      "Tailwind CSS",
+      "CSS",
+      "JavaScript"
+    ],
+    "image": "public/uploads/6zKvpfF3ThM.png",
+    "images": [
+      "public/uploads/Screenshot 2026-07-10 202430.png",
+      "public/uploads/Screenshot 2026-07-10 202538.png",
+      "public/uploads/Screenshot 2026-07-10 202600.png",
+      "public/uploads/Screenshot 2026-07-10 222118.png",
+      "public/uploads/Screenshot 2026-07-10 222140.png"
+    ],
+    "challenge": "The challenge in this project was to design a consistent interface while establishing a simple user flow for the various features within a single application. In addition to ensuring an easy-to-understand interface, each page also needed to provide a comfortable user experience and effectively support operational processes.",
+    "solution": "I designed the application's interface and navigation flow, focusing on design consistency and ease of use. I then implemented the design into the application using PHP, HTML, CSS, JavaScript, and Tailwind CSS to connect each page to system functions and provide a more structured user experience.",
+    "outcome": "The result is a consistent and user-friendly application interface to support cafe operations. Users can access features like menu management, sales transactions, and inventory through structured navigation, making the app more convenient to use.",
+    "github": "https://github.com/Tr-raaa/bitebrew_cafe_system.git",
+    "demo": "https://drive.google.com/file/d/1mKO1SVLt1xOpIN_AsBOR1YsjjnSUsm8A/view?usp=drive_link",
+    "year": "2025",
+    "role": "UI/UX Designer & Frontend Developer"
+  },
+  {
+    "id": 4,
+    "title": "Library System",
+    "tagline": "UI Design for a simple and easy to use digital library system.",
+    "description": "This project focused on designing an interface that supports the user experience through a structured layout and clear navigation. I was responsible for creating a consistent visual design to ensure each page was easy to use.",
+    "tags": [
+      "Canva"
+    ],
+    "image": "public/uploads/modern-minimalist-dell-desktop-mockup-with-monitor-keyboard-mouse-and-notepad-on-desk-01182.jpg",
+    "images": [
+      "public/uploads/1.png",
+      "public/uploads/2.png",
+      "public/uploads/3.png",
+      "public/uploads/4.png",
+      "public/uploads/5.png",
+      "public/uploads/6.png",
+      "public/uploads/7.png",
+      "public/uploads/8.png",
+      "public/uploads/9.png",
+      "public/uploads/10.png",
+      "public/uploads/11.png",
+      "public/uploads/12.png",
+      "public/uploads/13.png",
+      "public/uploads/14.png",
+      "public/uploads/15.png"
+    ],
+    "challenge": "The challenge in this project was to design an interface that could be used by two types of users with different needs: students and librarians. In addition to maintaining design consistency, each page needed to be structured to ensure easy-to-understand information and a simple user flow.",
+    "solution": "I designed the interface using Canva, paying attention to navigation structure, visual consistency, and the layout of information on each page. The design was designed to allow users to access key features, such as book search, borrowing, and collection management, with a clear and easy-to-understand flow.",
+    "outcome": "The final result is a digital library system interface design that supports a more structured book lending and collection management process. The resulting design provides a consistent and easily understood user flow for both types of users.",
+    "year": "2025",
+    "role": "UI Designer"
+  }
+]
