@@ -944,7 +944,7 @@ function AboutPage() {
               {/* The actual photo sits clipped inside a rounded box */}
               <div className="absolute inset-0 rounded-2xl overflow-hidden shadow-2xl"
                 style={{ border: "2px solid rgba(255,255,255,0.22)", boxShadow: "0 20px 60px rgba(3,4,94,0.45)" }}>
-                <img src="public/uploads/WhatsApp Image 2026-07-11 at 11.38.10.jpeg"
+                <img src="/uploads/WhatsApp Image 2026-07-11 at 11.38.10.png"
                   alt="Theresa Purba" className="w-full h-full object-cover" />
                 <div className="absolute inset-0" style={{ background: "linear-gradient(to top, rgba(6,26,58,0.55), transparent 60%)" }} />
               </div>
@@ -954,7 +954,6 @@ function AboutPage() {
             <div ref={factsRef} className="reveal space-y-1">
               {[
                 ["Based in",       "Cikarang Utara, Indonesia"],
-                ["Languages",      "Indonesia, English (Intermediate)"],
               ].map(([label, value]) => (
                 <div key={label} className="flex justify-between items-center py-3 border-b border-white/15">
                   <span className="text-[#90d8f0] text-sm">{label}</span>

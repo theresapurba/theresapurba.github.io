@@ -6,21 +6,20 @@
     "description": "A web-based accounting system to help UMKM manage their financial transactions and generate accounting reports.",
     "tags": [
       "React",
-      "Tailwind CSS",
-      "Axios"
+      "Tailwind CSS"
     ],
-    "image": "public/uploads/Desain tanpa judul (2).png",
+    "image": "/uploads/Desain tanpa judul (2).png",
     "images": [
-      "public/uploads/Screenshot 2026-07-04 160829.png",
-      "public/uploads/Screenshot 2026-07-15 022800.png",
-      "public/uploads/Screenshot 2026-07-15 022813.png",
-      "public/uploads/Screenshot 2026-07-15 022926.png",
-      "public/uploads/Screenshot 2026-07-15 022936.png",
-      "public/uploads/Screenshot 2026-07-15 023205.png",
-      "public/uploads/Screenshot 2026-07-15 023214.png",
-      "public/uploads/Screenshot 2026-07-15 023224.png",
-      "public/uploads/Screenshot 2026-07-15 023431.png",
-      "public/uploads/Screenshot 2026-07-15 023446.png"
+      "/uploads/Screenshot 2026-07-04 160829.png",
+      "/uploads/Screenshot 2026-07-15 022800.png",
+      "/uploads/Screenshot 2026-07-15 022813.png",
+      "/uploads/Screenshot 2026-07-24 192434.png",
+      "/uploads/image.png",
+      "/uploads/Screenshot 2026-07-15 023205.png",
+      "/uploads/Screenshot 2026-07-15 023214.png",
+      "/uploads/Screenshot 2026-07-15 023224.png",
+      "/uploads/Screenshot 2026-07-15 023431.png",
+      "/uploads/Screenshot 2026-07-15 023446.png"
     ],
     "challenge": "Developing an interface for a feature-rich accounting system with interconnected workflows, such as transaction recording, general journal, general ledger, and financial reports. The challenge is to maintain a consistent user interface, facilitate navigation, and ensure that data from the backend is displayed clearly and is easy for users to understand.",
     "solution": "I developed the application interface using React and Tailwind CSS with a reusable components approach. The main pages are integrated with a REST API using Axios to dynamically display data, enabling transaction recording and report generation through a structured and responsive interface.",
@@ -40,12 +39,12 @@
       "FastAPI",
       "PostgreSQL"
     ],
-    "image": "public/uploads/coverDVD_Rent.png",
+    "image": "/uploads/coverDVD_Rent.png",
     "images": [
-      "public/uploads/ocean-analytics-dashboard-image.png",
-      "public/uploads/analytics_inventory.png",
-      "public/uploads/Screenshot 2026-07-03 181855.png",
-      "public/uploads/Screenshot 2026-07-03 182152.png"
+      "/uploads/ocean-analytics-dashboard-image.png",
+      "/uploads/analytics_inventory.png",
+      "/uploads/Screenshot 2026-07-03 181855.png",
+      "/uploads/Screenshot 2026-07-03 182152.png"
     ],
     "challenge": "The dashboard requires a backend capable of processing data from various tables and summaries in PostgreSQL into information ready to be displayed in interactive visualizations. Furthermore, the backend must support movie popularity prediction using machine learning and provide data that can be efficiently accessed by an AI chatbot.",
     "solution": "I contributed to the backend development using FastAPI by building a REST API connected to a PostgreSQL database. The backend was designed to provide data for each dashboard page, including genre analysis, inventory, and movie predictions. Furthermore, the backend supported the integration of a Random Forest model for movie popularity prediction and provided an endpoint for the AI ​​chatbot to access dashboard information.",
@@ -66,13 +65,13 @@
       "CSS",
       "JavaScript"
     ],
-    "image": "public/uploads/6zKvpfF3ThM.png",
+    "image": "/uploads/6zKvpfF3ThM.png",
     "images": [
-      "public/uploads/Screenshot 2026-07-10 202430.png",
-      "public/uploads/Screenshot 2026-07-10 202538.png",
-      "public/uploads/Screenshot 2026-07-10 202600.png",
-      "public/uploads/Screenshot 2026-07-10 222118.png",
-      "public/uploads/Screenshot 2026-07-10 222140.png"
+      "/uploads/Screenshot 2026-07-10 202430.png",
+      "/uploads/Screenshot 2026-07-10 202538.png",
+      "/uploads/Screenshot 2026-07-10 202600.png",
+      "/uploads/Screenshot 2026-07-10 222118.png",
+      "/uploads/Screenshot 2026-07-10 222140.png"
     ],
     "challenge": "The challenge in this project was to design a consistent interface while establishing a simple user flow for the various features within a single application. In addition to ensuring an easy-to-understand interface, each page also needed to provide a comfortable user experience and effectively support operational processes.",
     "solution": "I designed the application's interface and navigation flow, focusing on design consistency and ease of use. I then implemented the design into the application using PHP, HTML, CSS, JavaScript, and Tailwind CSS to connect each page to system functions and provide a more structured user experience.",
@@ -90,23 +89,23 @@
     "tags": [
       "Canva"
     ],
-    "image": "public/uploads/modern-minimalist-dell-desktop-mockup-with-monitor-keyboard-mouse-and-notepad-on-desk-01182.jpg",
+    "image": "/uploads/modern-minimalist-dell-desktop-mockup-with-monitor-keyboard-mouse-and-notepad-on-desk-01182.jpg",
     "images": [
-      "public/uploads/1.png",
-      "public/uploads/2.png",
-      "public/uploads/3.png",
-      "public/uploads/4.png",
-      "public/uploads/5.png",
-      "public/uploads/6.png",
-      "public/uploads/7.png",
-      "public/uploads/8.png",
-      "public/uploads/9.png",
-      "public/uploads/10.png",
-      "public/uploads/11.png",
-      "public/uploads/12.png",
-      "public/uploads/13.png",
-      "public/uploads/14.png",
-      "public/uploads/15.png"
+      "/uploads/1.png",
+      "/uploads/2.png",
+      "/uploads/3.png",
+      "/uploads/4.png",
+      "/uploads/5.png",
+      "/uploads/6.png",
+      "/uploads/7.png",
+      "/uploads/8.png",
+      "/uploads/9.png",
+      "/uploads/10.png",
+      "/uploads/11.png",
+      "/uploads/12.png",
+      "/uploads/13.png",
+      "/uploads/14.png",
+      "/uploads/15.png"
     ],
     "challenge": "The challenge in this project was to design an interface that could be used by two types of users with different needs: students and librarians. In addition to maintaining design consistency, each page needed to be structured to ensure easy-to-understand information and a simple user flow.",
     "solution": "I designed the interface using Canva, paying attention to navigation structure, visual consistency, and the layout of information on each page. The design was designed to allow users to access key features, such as book search, borrowing, and collection management, with a clear and easy-to-understand flow.",
